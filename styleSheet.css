@@ -1,0 +1,37 @@
+body {
+    background-image: url("Jetta1.jpg");
+    background-size: 160px 120px;
+    background-repeat: repeat;
+    text-align: center;
+}
+
+#chart_div, #chart_div1 {
+    width: 50%;
+    margin-top: 5%;
+    margin-left: 25%;
+}
+
+#body {
+    background-color: rgba(100, 100, 100, .7);
+}
+
+#head {
+    width: 50%;
+    margin-left: 25%;
+    background-color: rgba(46,139,87, .3);
+}
+
+div.link {
+    width: 50%;
+    background-color: rgba(46,139,87, .3);
+    margin-top: 4px;
+    margin-left: 25%;
+}
+
+h2 {
+    color: white;
+}
+
+a {
+    color: white;
+}
